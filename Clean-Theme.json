@@ -1,0 +1,85 @@
+{
+    "name": "Clean Theme",
+    "description": "Jesus seja louvado, Glória.",
+    "authors": [
+        {
+            "name": "Pl4nk Stan | +44",
+            "id": "466968658997149706"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": ["#ffffff", "#ffffff", "#ffffff"],
+        "BACKGROUND_SECONDARY": ["#f5f5f5", "#f5f5f5", "#f5f5f5"],
+        "BACKGROUND_TERTIARY": ["#e0e0e0", "#e0e0e0", "#e0e0e0"],
+        "BACKGROUND_ACCENT": ["#cccccc", "#cccccc", "#cccccc"],
+        "BACKGROUND_FLOATING": ["#f9f9f9", "#f9f9f9", "#f9f9f9"],
+        "BACKGROUND_MODIFIER_HOVER": ["#00000010", "#00000010", "#00000010"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#00000020", "#00000020", "#00000020"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#00000030", "#00000030", "#00000030"],
+
+        "TEXT_NORMAL": ["#000000", "#000000", "#000000"],
+        "TEXT_MUTED": ["#555555", "#555555", "#555555"],
+        "TEXT_LINK": ["#1a1a1a", "#1a1a1a", "#1a1a1a"],
+        "TEXT_POSITIVE": ["#333333", "#333333", "#333333"],
+        "TEXT_WARNING": ["#444444", "#444444", "#444444"],
+        "TEXT_DANGER": ["#222222", "#222222", "#222222"],
+
+        "INTERACTIVE_NORMAL": ["#000000", "#000000", "#000000"],
+        "INTERACTIVE_HOVER": ["#333333", "#333333", "#333333"],
+        "INTERACTIVE_ACTIVE": ["#111111", "#111111", "#111111"],
+        "INTERACTIVE_MUTED": ["#999999", "#999999", "#999999"],
+
+        "CHANNELS_DEFAULT": ["#000000", "#000000", "#000000"],
+        "CHANNEL_ICON": ["#00000099", "#00000099", "#00000099"],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#666666", "#666666", "#666666"],
+
+        "SCROLLBAR_AUTO_THUMB": ["#444444", "#444444", "#444444"],
+        "SCROLLBAR_AUTO_TRACK": ["#cccccc", "#cccccc", "#cccccc"],
+        "SCROLLBAR_THIN_THUMB": ["#555555", "#555555", "#555555"],
+        "SCROLLBAR_THIN_TRACK": ["#e0e0e0", "#e0e0e0", "#e0e0e0"],
+
+        "MENTION_FOREGROUND": ["#000000", "#000000", "#000000"],
+        "BACKGROUND_MENTIONED": ["#00000010", "#00000010", "#00000010"],
+        "BACKGROUND_MENTIONED_HOVER": ["#00000015", "#00000015", "#00000015"],
+
+        "CARD_PRIMARY_BG": ["#f5f5f5", "#f5f5f5", "#f5f5f5"],
+        "CARD_SECONDARY_BG": ["#ffffff", "#ffffff", "#ffffff"],
+        "PANEL_BG": ["#f9f9f9", "#f9f9f9", "#f9f9f9"],
+
+        "HEADER_PRIMARY": ["#000000", "#000000", "#000000"],
+        "HEADER_SECONDARY": ["#555555", "#555555", "#555555"]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#000000",
+        "PRIMARY_200": "#111111",
+        "PRIMARY_300": "#222222",
+        "PRIMARY_400": "#333333",
+        "PRIMARY_500": "#555555",
+        "BLACK_500": "#000000",
+        "WHITE_500": "#ffffff",
+        "RED_400": "#111111",
+        "GREEN_360": "#222222",
+        "YELLOW_300": "#333333",
+        "PLUM_20": "#f5f5f5",
+        "PLUM_16": "#ffffff",
+        "PLUM_22": "#f9f9f9"
+    },
+    "background": {
+        "url": "https://i.ibb.co/m8NzQvM/jesus-cross.jpg",
+        "alpha": 1
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#000000",
+            "ic_mic_muted_neutral": "#555555",
+            "ic_soundboard": "#000000",
+            "ic_soundboard_muted": "#555555",
+            "ic_video": "#000000",
+            "ic_video_disabled": "#555555"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
